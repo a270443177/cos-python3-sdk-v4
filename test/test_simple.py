@@ -1,4 +1,4 @@
-from qcloud_cos.cos_request import UploadFileRequest
+from qcloud3_cos.cos_request import UploadFileRequest
 
 import unittest
 
