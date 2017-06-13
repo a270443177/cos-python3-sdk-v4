@@ -1,0 +1,2 @@
+qcloud_cos
+test

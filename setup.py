@@ -7,8 +7,8 @@ from setuptools import setup, find_packages
 if sys.version_info[0] != 3:
     sys.exit('Sorry, only python 3.x is supported')
 
-setup(name='qcloud3_cos_v4',
-      version='0.0.21',
+setup(name='qcloud_cos_v4',
+      version='0.0.23',
       description='python3 sdk for tencent qcloud cos v4.0',
       long_description=open('README.md', 'r').read(),
       license='MIT License',
