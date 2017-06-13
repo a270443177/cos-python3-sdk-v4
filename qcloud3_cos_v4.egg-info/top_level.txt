@@ -1,2 +1,0 @@
-qcloud_cos
-test
