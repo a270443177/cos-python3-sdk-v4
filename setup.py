@@ -10,7 +10,7 @@ if sys.version_info[0] != 3:
 setup(name='qcloud_cos_v4',
       version='0.0.23',
       description='python3 sdk for tencent qcloud cos v4.0',
-      long_description=open('README.md', 'r').read(),
+      long_description=open('README.md', 'r', encoding="utf8").read(),
       license='MIT License',
       install_requires=['requests'],
       author='chenwenbin',
